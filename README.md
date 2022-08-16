@@ -2,4 +2,6 @@
 
 ## Buscador de Cripto Moedas
 
-### Projeto React
+### Projeto React 
+
+### Consumindo API e usando Props e Hooks
