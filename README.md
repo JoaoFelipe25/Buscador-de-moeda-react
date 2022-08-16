@@ -6,4 +6,4 @@
 
 ### Consumindo API e usando Props e Hooks
 
-(codigo do projeto)[Buscador-de-moeda-react/src/components/]
+[codigo do projeto](Buscador-de-moeda-react/src/components/)
